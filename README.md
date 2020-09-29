@@ -25,14 +25,11 @@ Admiro muito as plataformas [Curso em Vídeo](https://www.youtube.com/user/curso
 
 ## Conhecimentos / Knowledges
 
-### Mais do que básico:
+### Básico
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/kelvindemirandabarros/)](https://github.com/kelvindemirandabarros/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/kelvindemirandabarros/)](https://github.com/kelvindemirandabarros/)
 <!-- [![Expressjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=NestJS&logoColor=red&link=https://github.com/kelvindemirandabarros/)](https://github.com/kelvindemirandabarros/) -->
-
-
-### Básico
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/kelvindemirandabarros/)](https://github.com/kelvindemirandabarros/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/kelvindemirandabarros/)](https://github.com/kelvindemirandabarros/)
