@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Sou um grande fã de programação :computer: e atualmente estou estudando cursos de FullStack Developer.
 Admiro muito as plataformas [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo), [Rocketseat](https://rocketseat.com.br/) e [Alura](https://www.alura.com.br/) por ensinarem conteúdos excelentes de forma gratuita.
 
-<br/> :rocket: &nbsp; Atualmente estou estudando pelos vídeos da **Rocketseat**
+<br/> :rocket: &nbsp; Atualmente estou estudando cursos de FullStack Development
 <br/> :computer: &nbsp; Stack que mais estudo atualmente: Node.js, ReactJS, React Native
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias de todos os tipos.
 
