@@ -49,4 +49,4 @@ Admiro muito as plataformas [Curso em Vídeo](https://www.youtube.com/user/curso
 ## :email: &nbsp; Entre em contato comigo:
 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:kmbcg@hotmail.com)](mailto:kmbcg@hotmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-KelvinDeMirandaBarros-005683?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-de-miranda-barros/)](https://www.linkedin.com/in/kelvin-de-miranda-barros/)
+[![Linkedin Badge](https://img.shields.io/badge/-KelvinDeMirandaBarros-005683?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-de-miranda-barros/)](https://www.linkedin.com/in/kelvindemirandabarros/)
